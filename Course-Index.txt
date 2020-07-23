@@ -2,7 +2,7 @@
    Python Object and Data Structure Basics
    Default functions with data types
 2. Python operators
-     Matchmatical operators
+     Mathamatical operators
 	 Comparison operators
 3. Loops and Statements
 4. Methods and Functions
