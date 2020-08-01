@@ -5,6 +5,7 @@ split
 lstrip
 rstrip
 strip
+center
 statswith
 endswith
 upper
