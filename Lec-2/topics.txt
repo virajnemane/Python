@@ -5,7 +5,6 @@ split
 lstrip
 rstrip
 strip
-center
 statswith
 endswith
 upper
@@ -63,5 +62,4 @@ input
 continue
 break
 
-sys module
 
